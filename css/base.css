@@ -155,3 +155,7 @@ body {
   .pf-c-dropdown.pf-to-right .pf-c-dropdown__menu {
     right: 0;
     left: auto; }
+
+li.pf-c-card {
+  list-style-type: none;
+}
